@@ -1,0 +1,221 @@
+
+body {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-weight: normal;
+background: #ddd;
+	font-style: normal;
+
+}
+.container {
+	background: #fff;
+	max-width: 690px !important;
+}
+.img {
+
+	max-width: 100%;
+
+	transition: all 0.3s ease-out 0s;
+
+}
+
+
+a, .button {
+
+	-webkit-transition: all 0.3s ease-out 0s;
+
+	-moz-transition: all 0.3s ease-out 0s;
+
+	-ms-transition: all 0.3s ease-out 0s;
+
+	-o-transition: all 0.3s ease-out 0s;
+
+	transition: all 0.3s ease-out 0s;
+
+}
+
+a:focus, .button:focus {
+
+	text-decoration: none;
+
+	outline: none;
+
+}
+
+a:focus, a:hover, .portfolio-cat a:hover, .footer -menu li a:hover {
+
+	color: #2B96CC;
+
+	text-decoration: none;
+
+}
+
+a, button {
+
+	color: #1696e7;
+
+	outline: medium none;
+
+}
+
+button:focus, input:focus, input:focus, textarea, textarea:focus {
+
+	outline: 0
+
+}
+
+
+.header-area{
+	padding: 35px 0;
+	border-bottom: 1;
+}
+.header-area .container{
+	border-bottom: 1px solid #638000;
+	padding-bottom: 25px;
+}
+.textlogo h4 {
+font-weight: bold;
+font-size: 38px;
+color: #333333;
+}
+.mailpara {
+	font-size: 20px;
+	color: #000;
+	padding: 25px 0;
+}
+.mailpara span {
+	text-decoration: underline;
+	color: #9eba3b;
+}
+.readdiv .title {
+	font-size: 22px;
+	font-weight: bold;
+	margin-bottom: 22px;
+
+}
+.readthumb img {
+	width: 100%;
+}
+.readpara{
+	background: #f9f9f9;
+	padding: 30px 25px;
+	margin-bottom: 10px;
+}
+.heading {
+	font-size: 22px;
+	font-weight: bold;
+}
+.para {
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+a.themebtn {
+	background: #415c6b;
+	display: inline-block;
+	padding: 10px 15px;
+	font-size: 17px;
+	font-weight: bold;
+	color: #fff;
+}
+.adsection{
+	background: #638000;
+	padding: 30px 0;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.adtitle {
+	font-size: 28px;
+	font-weight: bold;
+	color: #fff;
+}
+.conversationsec{
+	background: #f9f9f9;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+.conversationtitle img {
+	margin-right: 20px;
+}
+.conversationtitle {
+	font-size: 28px;
+	font-style: italic;
+	margin-bottom: 15px;
+	font-weight: bold;
+}
+.left-content {
+	font-size: 22px;
+	font-weight: bold;
+}
+.mainlink{
+	padding: 25px 0;
+	text-align: center;
+}
+.promoimg img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.pricesec{
+	padding: 35px 0;
+	text-align: center;
+}
+.pricetitle{
+font-size: 34px;
+font-weight: bold;
+}
+hr{
+	background: #e68a1b;
+	width: 220px;
+	height: 5px;
+}
+.pricepara {
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+.pricepara span{
+	font-size: 24px;
+	font-weight: bold;
+}
+.single-pricing {
+	background: #f9f9f9;
+	padding: 40px 0;
+	height: 100%;
+	text-align: center;
+	border: 1px solid #a7a7a7;
+}
+.icon{
+	padding-top: 30px;
+	margin-bottom: 15px;
+}
+.price {
+	font-size: 35px;
+	font-weight: bold;
+}
+.details {
+	font-size: 18px;
+}
+.details strong {
+	display: block;
+}
+.footerarea{
+	padding: 30px;
+	background: #7895a4;
+}
+.footercontact {
+	text-align: center;
+	font-size: 20px;
+	color: #fff;
+}
+.footerlink {
+	text-align: center;
+	margin: 25px 0;
+}
+.footerlink a {
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 22px;
+}

@@ -1,0 +1,72 @@
+
+
+@media (min-width: 992px) and (max-width: 1200px) {
+	a.themebtn {
+    padding: 5px 15px;
+    font-size: 15px;
+}
+.para {
+	font-size: 18px;
+}
+
+}
+
+
+
+
+
+/* Tablet desktop :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.para {
+    font-size: 16px;
+}
+a.themebtn {
+	padding: 5px 15px;
+	font-size: 16px;
+}
+
+
+}
+
+
+
+@media (max-width: 767px) {
+	.logo {
+    text-align: center;
+}
+.mailpara {
+	font-size: 15px;
+	padding: 17px 0;
+}
+.heading {
+	font-size: 20px;
+}
+.para {
+	font-size: 14px;
+}
+a.themebtn {
+	padding: 4px 15px;
+	font-size: 16px;
+}
+.para {
+	font-size: 15px;
+	margin-bottom: 10px;
+}
+.conversationtitle img {
+	margin-right: 0px;
+	display: block;
+}
+.conversationtitle {
+	font-size: 20px;
+}
+.left-content {
+	font-size: 16px;
+}
+.pricetitle {
+	font-size: 30px;
+}
+
+}
+
+
